@@ -7,7 +7,7 @@ Chef Buddy is an AI recipe generator developed during the Gemini Hackathon. It a
 ### Mobile View
 
 1. Home Screen
-![Home Screen](path/to/mobile_home_screenshot.png)
+![Home Screen](previews/m1.png)
 
 2. Recipe Details
 ![Recipe Details](path/to/mobile_recipe_details_screenshot.png)
