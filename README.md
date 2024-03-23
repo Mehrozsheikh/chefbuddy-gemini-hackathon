@@ -9,10 +9,15 @@ Chef Buddy is an AI recipe generator developed during the Gemini Hackathon. It a
    git clone https://github.com/Mehrozsheikh/chefbuddy-gemini-hackathon.git
    ```
 
+## How to Obtain and Update API Key
+
+1. Go to [Google AI Studio](https://aistudio.google.com/app/apikey) to create a new API key.
+
 2. Update the API Key:
    - Navigate to the project folder.
    - Open `lib/constants/constants.dart`.
-   - Replace `'YOUR_API_KEY_HERE'` with your actual API key.
+   - Replace `'YOUR_API_KEY_HERE'` with your actual API key obtained from Google AI Studio.
+
 
 3. Run the project using Flutter:
    ```
