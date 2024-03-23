@@ -2,6 +2,24 @@
 
 Chef Buddy is an AI recipe generator developed during the Gemini Hackathon. It allows users to input ingredients or food images, set dietary preferences, and receive personalized recipes. This tool aims to reduce food waste and spark creativity in the kitchen.
 
+## How to Run
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/your-username/chefbuddy-gemini-hackathon.git
+   ```
+
+2. Update the API Key:
+   - Navigate to the project folder.
+   - Open `lib/constants/constants.dart`.
+   - Replace `'YOUR_API_KEY_HERE'` with your actual API key.
+
+3. Run the project using Flutter:
+   ```
+   flutter pub get
+   flutter run
+   ```
+   
 ### Web View
 
 1. Home Screen
@@ -30,22 +48,6 @@ Chef Buddy is an AI recipe generator developed during the Gemini Hackathon. It a
 4. Food to Recipe
 ![Food to Recipe](previews/m4.png)
 
-## How to Run
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/your-username/chefbuddy-gemini-hackathon.git
-   ```
-
-2. Update the API Key:
-   - Navigate to the project folder.
-   - Open `lib/constants/constants.dart`.
-   - Replace `'YOUR_API_KEY'` with your actual API key.
-
-3. Run the project using Flutter:
-   ```
-   flutter run
-   ```
 
 ## Contributing
 
