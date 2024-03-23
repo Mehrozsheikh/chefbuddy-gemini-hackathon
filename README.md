@@ -6,7 +6,7 @@ Chef Buddy is an AI recipe generator developed during the Gemini Hackathon. It a
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/chefbuddy-gemini-hackathon.git
+   git clone https://github.com/Mehrozsheikh/chefbuddy-gemini-hackathon.git
    ```
 
 2. Update the API Key:
